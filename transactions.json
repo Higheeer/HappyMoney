@@ -1,0 +1,44 @@
+{
+  "name" : "Jan",
+  "surname" : "Kowalski",
+  "accountNumber" : "1231231231",
+  "transactionHistory" : {
+    "transactions" : [ {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    }, {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    }, {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    }, {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    }, {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    }, {
+      "type" : "Deposit",
+      "sender" : "ATM",
+      "recipient" : "YOU",
+      "amount" : "23232",
+      "title" : "WpĹ‚ata Ĺ›rodkĂłw"
+    } ]
+  }
+}
